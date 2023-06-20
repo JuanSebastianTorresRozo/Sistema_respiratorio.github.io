@@ -1,0 +1,66 @@
+.info {
+  display: flex;
+}
+.Home {
+  height: 450px; /* Ajusta la altura según tus necesidades */
+  overflow: hidden;
+  border: 1px solid black;
+}
+
+p {
+  text-align: justify;
+  font-size: 16px;
+}
+
+.logo {
+  width: 65px;
+  height: 60px;
+}
+.Inicio {
+  background-color: aquamarine;
+  padding: 100px;
+}
+h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.laringe {
+  padding: 100px;
+}
+.foto1 {
+  width: 500px;
+  height: 350px;
+}
+
+.image-container {
+  display: flex;
+}
+
+.foto2 {
+  width: 50%; /* Ajusta el tamaño de las imágenes según sea necesario */
+  height: auto;
+  margin-right: 10px; /* Establece un margen entre las imágenes */
+}
+.foto3 {
+  width: 500px;
+  height: 350px;
+  margin-right: 10px;
+}
+.foto4 {
+  width: 600px;
+  height: 450px;
+}
+.traquea {
+  padding: 100px;
+}
+.maduracion {
+  padding: 100px;
+  background-color: aquamarine;
+}
+.sistema-respiratorio {
+  background-color: aquamarine;
+}
+.tracto {
+  background-color: aquamarine;
+}
